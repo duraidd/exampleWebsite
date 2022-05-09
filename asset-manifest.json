@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/exampleWebsite/static/css/main.e20f9ca8.css",
-    "main.js": "/exampleWebsite/static/js/main.865d8a2a.js",
+    "main.js": "/exampleWebsite/static/js/main.5c256408.js",
     "static/js/787.b7474013.chunk.js": "/exampleWebsite/static/js/787.b7474013.chunk.js",
     "static/media/skill2.jpg": "/exampleWebsite/static/media/skill2.3120c542079bee7031ac.jpg",
     "static/media/smart_class_2.svg": "/exampleWebsite/static/media/smart_class_2.10ada794166011d6f564c9b2fbc41bcd.svg",
@@ -10,6 +10,7 @@
     "static/media/ict.jpg": "/exampleWebsite/static/media/ict.bdfd23a3836e02903d33.jpg",
     "static/media/eContentDevelopment.png": "/exampleWebsite/static/media/eContentDevelopment.56e7051a2ba03d1987a5.png",
     "static/media/lab1.svg": "/exampleWebsite/static/media/lab1.e7bd83e01e91400dad54f35a48ae444d.svg",
+    "static/media/smartClassHardwareMob.jpg": "/exampleWebsite/static/media/smartClassHardwareMob.9646d489c33c0743d6a3.jpg",
     "static/media/smart_class.svg": "/exampleWebsite/static/media/smart_class.ba5a4008263dd6cc1ae4cb7625e6ccd3.svg",
     "static/media/lab3.svg": "/exampleWebsite/static/media/lab3.7683946be21857d2a9158b16a62c9f2c.svg",
     "static/media/lab2.svg": "/exampleWebsite/static/media/lab2.da54458afec5e2ee2f0dc9627cb271f1.svg",
@@ -165,7 +166,6 @@
     "static/media/undrawoperatingsystem.svg": "/exampleWebsite/static/media/undrawoperatingsystem.5f8cde257929e1ab86961cacc347d842.svg",
     "static/media/undraw_social_networking_re_i1ex.svg": "/exampleWebsite/static/media/undraw_social_networking_re_i1ex.a6ff8387bc328fef393efb6168af38c2.svg",
     "static/media/js.svg": "/exampleWebsite/static/media/js.fd1a140d77afe68e5663e4cc3428071e.svg",
-    "static/media/undrawcontact.svg": "/exampleWebsite/static/media/undrawcontact.ee5046c60ef1b349ea468db3e545d30d.svg",
     "static/media/client-keletron.svg": "/exampleWebsite/static/media/client-keletron.eebac1613d187547a15706eb0c65ec85.svg",
     "static/media/pp7.png": "/exampleWebsite/static/media/pp7.4cc423723257280b12e1.png",
     "static/media/undraw_quality_time_wiyl.svg": "/exampleWebsite/static/media/undraw_quality_time_wiyl.8aa49dae9bd62a67b050d7ca85d50732.svg",
@@ -178,7 +178,6 @@
     "static/media/undraw_server_cluster_jwwq.svg": "/exampleWebsite/static/media/undraw_server_cluster_jwwq.ff252d28c1382c23169756541600e803.svg",
     "static/media/undrawonlinreading_.svg": "/exampleWebsite/static/media/undrawonlinreading_.3c79c4fb43b395123bf9b587e8a0e986.svg",
     "static/media/front-end-architecture.svg": "/exampleWebsite/static/media/front-end-architecture.2c10ffb096ce19d787b69d71e00dfc77.svg",
-    "static/media/logo.svg": "/exampleWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/testing-performance.svg": "/exampleWebsite/static/media/testing-performance.17be89e65d042a4d3ed347edab1a53c1.svg",
     "static/media/slick.svg": "/exampleWebsite/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/javascript-solutions.svg": "/exampleWebsite/static/media/javascript-solutions.553c8cfcc48a94cd96468848e9ece154.svg",
@@ -194,11 +193,11 @@
     "static/media/ic_y.svg": "/exampleWebsite/static/media/ic_y.46d72ab5679175057696b7ea4818c8f8.svg",
     "static/media/ic_f.svg": "/exampleWebsite/static/media/ic_f.377c0bf7fb12b1972b9f2dd920525ef3.svg",
     "main.e20f9ca8.css.map": "/exampleWebsite/static/css/main.e20f9ca8.css.map",
-    "main.865d8a2a.js.map": "/exampleWebsite/static/js/main.865d8a2a.js.map",
+    "main.5c256408.js.map": "/exampleWebsite/static/js/main.5c256408.js.map",
     "787.b7474013.chunk.js.map": "/exampleWebsite/static/js/787.b7474013.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e20f9ca8.css",
-    "static/js/main.865d8a2a.js"
+    "static/js/main.5c256408.js"
   ]
 }
